@@ -5,6 +5,7 @@ h1 {
   color: darkmagenta;
   font-family: fantasy;
   font-size: 60px;
+  max-width: 200px;
 }
 h2 {
   color: hotpink;
